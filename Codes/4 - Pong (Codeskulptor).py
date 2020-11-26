@@ -171,7 +171,3 @@ new_game()
 # ------------ FRAME INITIALIZATION ------------ #
 
 frame.start()
-
-
-
-
